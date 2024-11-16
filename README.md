@@ -1,1 +1,1 @@
-# omweb https://raw.githubusercontent.com/username/repository/backup-uploads/path/to/file
+# omweb https://raw.githubusercontent.com/omkarswebsite/repository-name/branch-name/path/to/file
